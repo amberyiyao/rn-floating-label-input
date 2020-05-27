@@ -1,0 +1,20 @@
+{
+  "name": "@wezyy1/rn-floating-label-input",
+  "version": "1.0.1",
+  "description": "A cross-platform Floating-Label-Input component for React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amberyiyao/rn-floating-label-input.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amberyiyao/rn-floating-label-input/issues"
+  },
+  "homepage": "https://github.com/amberyiyao/rn-floating-label-input#readme",
+  "keywords":["react-native-component", "react-native", "ios", "android", "input", "floating", "floating-label", "react-native-floating-input"]
+}
